@@ -1,9 +1,6 @@
 import React from 'react';
 import { Container, Typography, Box, Grid, Paper } from '@mui/material';
 
-// Importe a imagem diretamente
-import fotoJu from '../assets/images/fotoju.jpg';
-
 const Colunistas = () => {
   const columnists = [
     {
